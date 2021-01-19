@@ -1,0 +1,4 @@
+pyld_env/*
+pyglow/*
+py_cache/*
+*.png
